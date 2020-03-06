@@ -1,0 +1,37 @@
+*{
+margin: 0;
+padding: 0;
+font-family: Century Gothic;
+}
+
+body{
+
+	  text-align: center;
+
+	  font-family: Trebuchet MS; 
+
+	  background-repeat: no-repeat;
+
+	  background-size: cover;
+
+	  background-attachment: fixed;
+
+	background-image: url('party.png');
+}
+
+ul{
+	float: left;
+	list-style-type: none;
+}
+
+ul li{
+	display: inline-block;
+}
+
+ul li a{
+	text-decoration: none;
+	color: #ffffff;
+	padding: 5px 20px;
+	border: 4 px solid #ffffff;
+}
+	
